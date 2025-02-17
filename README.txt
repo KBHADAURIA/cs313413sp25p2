@@ -1,6 +1,6 @@
 TestList.java and TestIterator.java
 
-
+TODO also try with a LinkedList - does it make any difference?
 
 		Your answer here. Yes it makes difference while Switching between ArrayList and LinkedList can alter the behavior and performance,
 		but method functionality remains unchanged as both implement the List interface.
