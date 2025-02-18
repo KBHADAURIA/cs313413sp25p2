@@ -50,14 +50,14 @@ TestPerformance.java
         testLinkedListAccess:    5.417708ms     5.223625ms  5.270666ms   5.160375ms    5.300416ms    4.924959ms
 
 	SIZE 1000
-							#1              #2         #3            #4            #5            #6 	           (as many tests as you ran)
+					#1              #2         #3            #4            #5            #6 	           (as many tests as you ran)
         testArrayListAddRemove:  144.372375ms    43.697625ms 149.516792ms 163.021875ms   146.045958ms  149.410917ms   (fill these in in ms)
         testLinkedListAddRemove: 9.297416ms      9.180667ms  9.154625ms   9.567792ms     9.416125ms    9.04475ms
 	testArrayListAccess:     1.489875ms      1.537959ms  1.605333ms   1.586833ms     1.557291ms     1.517125ms
         testLinkedListAccess:    2.592708ms      2.669292ms  3.207708ms   2.841875ms     2.982041ms      2.99775ms
 
 	SIZE 10000
-								  #1             #2            #3             #4              #5            #6 	...       (as many tests as you ran)
+					#1             #2            #3             #4              #5            #6 	...       (as many tests as you ran)
         testArrayListAddRemove:  1480.452667ms   1491.304667ms 1492.882417ms  1474.846458ms  1497.255ms   1493.654166ms   
         testLinkedListAddRemove: 10.730625ms     10.987542ms   11.136209ms    10.567042ms    10.307792ms  10.397375ms
 	testArrayListAccess:     1.572458ms      1.501791ms    1.569792ms      1.524125ms    1.514333ms    1.488625ms
